@@ -1,4 +1,4 @@
-Simple.CredentialsManager
+CredentialsManager
 =========================
 
-C# Api for accessing Windows Credential Manager (reading, writing and removing of credentials)
+C# API for deleting Qlik Windows Credentials
